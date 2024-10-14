@@ -1,4 +1,4 @@
-- [neow3j](readme.md)
+- [neow3j](/)
 - [dApp 开发](dapp/crossref.md)
 - [智能合约开发](sc/crossref.md)
 - [教程与示例](tutorial/crossref.md)
