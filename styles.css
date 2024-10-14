@@ -1,0 +1,48 @@
+#logo {
+    text-align: center;
+    padding: 50px;
+    width: 450px;
+    height: auto;
+  }
+  
+  #cover-header {
+    font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;
+    font-size: 2.5rem;
+    font-weight: 300;
+    text-align: center;
+  }
+  
+  .markdown-section h3 {
+    font-size: 1.3rem;
+  }
+  
+  .markdown-section h4 {
+    font-size: 1.1rem;
+  }
+  
+  main {
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+  
+  .oneclicknode-container {
+    margin-top: 20px;
+    display: grid;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .oneclicknode-btn {
+    font-size: 18px;
+    line-height: 1.4;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-weight: 600;
+    background-color: #cd553e;
+    color: #FFFFFF;
+    padding: 1em 1.5em;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    i {
+      padding-right: 0.3em;
+    }
+  }
